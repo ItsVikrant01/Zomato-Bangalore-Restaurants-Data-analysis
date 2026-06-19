@@ -151,7 +151,7 @@ The raw Kaggle data required significant cleaning before it could be used in Pow
 
 ## 📸 Screenshots / Demo
 
-![Zomato Bangalore Dashboard](screenshots/Dashboard_SS.png)
+![Zomato Bangalore Dashboard](Dashboard_SS.png)
 
 > **Dashboard Features Visible:**
 > - 🔴 Top filters — Cities, Restaurant Type, Book Table, Online Order
