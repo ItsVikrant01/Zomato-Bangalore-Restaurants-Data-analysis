@@ -150,7 +150,7 @@ The raw Kaggle data required significant cleaning before it could be used in Pow
 ---
 
 ## 📸 Screenshots / Demo
-![Dashboard Preview](Dashboard%20SS.png)
+![Dashboard Preview](screenshots/Dashboard%20SS.png)
 
 > **Dashboard Features Visible:**
 > - 🔴 Top filters — Cities, Restaurant Type, Book Table, Online Order
